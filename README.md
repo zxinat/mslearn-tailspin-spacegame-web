@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/zxinDevOps/DevOps_0/_apis/build/status/zxinat.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/zxinDevOps/DevOps_0/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
